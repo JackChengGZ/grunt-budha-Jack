@@ -40,7 +40,7 @@ grunt.initConfig({
 #### options.who
 Type: `String`
 Default value: `budha`
-指明使用美女保佑不出Bug
+指明使用美女保佑不出Bug,
 
 A string value that is used to do something with whatever.
 
