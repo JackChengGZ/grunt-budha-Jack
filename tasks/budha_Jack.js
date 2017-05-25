@@ -16,7 +16,7 @@ module.exports = function (grunt) {
   // creation: http://gruntjs.com/creating-tasks
 
 //插件的制作时候采用registerMultiTask
-  grunt.registerMultiTask('budha_Jack', '佛光普照代码', function () {
+  grunt.registerMultiTask('budha_Jack', '美女保佑代码', function () {
 
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({

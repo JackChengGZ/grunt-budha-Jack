@@ -1,6 +1,6 @@
 # grunt-budha-Jack
 
-> 佛光普照代码
+> 美女保佑代码
 
 ## Getting Started
 This plugin requires Grunt.
